@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideBySideRangeBarChart", "SideBySideRangeBarChart\SideBySideRangeBarChart.csproj", "{12A39484-15A0-47CB-ACDD-94D36FBEC584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideBySideRangeBarChart.Web", "SideBySideRangeBarChart.Web\SideBySideRangeBarChart.Web.csproj", "{57DA3B31-06A1-43BA-8AFF-FBE4AC99FD75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12A39484-15A0-47CB-ACDD-94D36FBEC584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A39484-15A0-47CB-ACDD-94D36FBEC584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A39484-15A0-47CB-ACDD-94D36FBEC584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A39484-15A0-47CB-ACDD-94D36FBEC584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57DA3B31-06A1-43BA-8AFF-FBE4AC99FD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DA3B31-06A1-43BA-8AFF-FBE4AC99FD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DA3B31-06A1-43BA-8AFF-FBE4AC99FD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DA3B31-06A1-43BA-8AFF-FBE4AC99FD75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
